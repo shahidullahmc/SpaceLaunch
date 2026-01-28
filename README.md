@@ -14,3 +14,28 @@ It’s a compact demonstration of end‑to‑end thinking — from SQL queries t
 ## How to Run This Project
 
 1. **Clone the repository**
+Here’s the clean continuation of your **“How to Run This Project”** section, written in a professional and minimal style that matches the rest of your README:
+
+
+1. **Clone the repository**
+   ```bash
+   git clone [https://github.com/yourusername/SpaceLaunch.git](https://github.com/shahidullahmc/SpaceLaunch.git)
+   cd SpaceLaunch
+   ```
+
+2. **Install dependencies**
+   Make sure you have Python 3.8+ installed. Then run:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Train and evaluate the model**
+   You can reproduce the final model by running:
+   ```bash
+   python src/model_train.py
+   ```
+
+4. **View outputs**
+   - Visualizations: `reports/figures/`  
+   - Final results and summary: `reports/summary/`
+```
