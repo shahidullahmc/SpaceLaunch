@@ -38,3 +38,19 @@ Here’s the clean continuation of your **“How to Run This Project”** sectio
    - Visualizations: `reports/figures/`  
    - Final results and summary: `reports/summary/`
 ```
+## Project Highlights
+
+- Built a complete, end‑to‑end data science workflow using real SpaceX launch data.
+- Engineered features that capture booster versions, payload classes, and launch site behavior.
+- Developed interactive dashboards to visualize launch patterns and mission outcomes.
+- Compared multiple machine‑learning models and selected a Decision Tree with 88.89% accuracy.
+- Produced a clear, decision‑ready narrative connecting engineering, cost, and mission feasibility.
+
+## Skills Demonstrated
+
+- **Data Engineering:** Data collection, cleaning, merging, and feature engineering.
+- **Exploratory Analysis:** SQL querying, statistical summaries, and visual storytelling.
+- **Machine Learning:** Model training, hyperparameter tuning, evaluation, and interpretation.
+- **Visualization:** Dashboards, plots, and analytical graphics for stakeholder communication.
+- **Software Practices:** Version control, modular code structure, reproducible workflows.
+- **Analytical Thinking:** Translating raw data into insights that support business and engineering decisions.
