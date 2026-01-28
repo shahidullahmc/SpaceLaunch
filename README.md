@@ -37,7 +37,7 @@ Here’s the clean continuation of your **“How to Run This Project”** sectio
 4. **View outputs**
    - Visualizations: `reports/figures/`  
    - Final results and summary: `reports/summary/`
-```
+---
 
 ## Project Highlights
 
