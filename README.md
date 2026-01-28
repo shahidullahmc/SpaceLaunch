@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="SpaceLaunch_20260128_213035" src="https://github.com/user-attachments/assets/e3c863ef-44d5-428e-af42-2301d79bd826" />
+
 # SpaceLaunch
 ```
 A focused, end‑to‑end data science workflow for understanding and predicting Falcon 9 first‑stage landing outcomes.
@@ -8,3 +10,7 @@ This project extends that foundation into a practical exploration of SpaceX Falc
 Rather than treating data science as a checklist, the project approaches it as a way to understand the engineering and business logic behind modern spaceflight. The final model, dashboards, and analysis form a small but complete example of how analytics can support mission planning, pricing strategy, and operational insight for a company like the fictional “SpaceY.”
 
 It’s a compact demonstration of end‑to‑end thinking — from SQL queries to visual storytelling to machine‑learning predictions — all wrapped in a workflow that mirrors how real teams explore, validate, and communicate complex technical systems.
+
+## How to Run This Project
+
+1. **Clone the repository**
