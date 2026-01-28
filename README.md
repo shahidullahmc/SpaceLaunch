@@ -23,10 +23,7 @@ Here’s the clean continuation of your **“How to Run This Project”** sectio
    ```
 
 2. **Install dependencies**
-   Make sure you have Python 3.8+ installed. Then run:
-   ```bash
-   pip install -r requirements.txt
-   ```
+   Make sure you have Python 3.8+ installed.
 
 3. **Train and evaluate the model**
    You can reproduce the final model by running:
