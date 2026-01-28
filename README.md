@@ -1,4 +1,7 @@
 # SpaceLaunch
+```
+A focused, end‑to‑end data science workflow for understanding and predicting Falcon 9 first‑stage landing outcomes.
+```
 Structured data science workflow for space launch analytics. Includes pipelines for telemetry/operational data cleaning, SQL querying, exploratory analysis, and ML models predicting mission outcomes. Features visualization, statistical modeling, and stakeholder reporting with version control and ethical data practices.
 This project extends that foundation into a practical exploration of SpaceX Falcon 9 landing outcomes — not as a theoretical exercise, but as a full narrative of how raw public data can be shaped into something decision‑ready. The work moves from collection to clarity: cleaning scattered launch records, uncovering patterns in payloads and booster versions, and building models that reflect how real launch providers think about cost, reliability, and reusability.
 
