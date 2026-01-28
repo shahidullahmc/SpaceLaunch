@@ -38,6 +38,7 @@ Here’s the clean continuation of your **“How to Run This Project”** sectio
    - Visualizations: `reports/figures/`  
    - Final results and summary: `reports/summary/`
 ```
+
 ## Project Highlights
 
 - Built a complete, end‑to‑end data science workflow using real SpaceX launch data.
