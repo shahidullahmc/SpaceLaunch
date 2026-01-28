@@ -1,9 +1,8 @@
 <img width="1536" height="1024" alt="SpaceLaunch_20260128_213035" src="https://github.com/user-attachments/assets/e3c863ef-44d5-428e-af42-2301d79bd826" />
 
 # SpaceLaunch
-```
-A focused, end‑to‑end data science workflow for understanding and predicting Falcon 9 first‑stage landing outcomes.
-```
+> A focused, end‑to‑end data science workflow for understanding and predicting Falcon 9 first‑stage landing outcomes.
+
 Structured data science workflow for space launch analytics. Includes pipelines for telemetry/operational data cleaning, SQL querying, exploratory analysis, and ML models predicting mission outcomes. Features visualization, statistical modeling, and stakeholder reporting with version control and ethical data practices.
 This project extends that foundation into a practical exploration of SpaceX Falcon 9 landing outcomes — not as a theoretical exercise, but as a full narrative of how raw public data can be shaped into something decision‑ready. The work moves from collection to clarity: cleaning scattered launch records, uncovering patterns in payloads and booster versions, and building models that reflect how real launch providers think about cost, reliability, and reusability.
 
@@ -19,7 +18,7 @@ Here’s the clean continuation of your **“How to Run This Project”** sectio
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/yourusername/SpaceLaunch.git](https://github.com/shahidullahmc/SpaceLaunch.git)
+   git clone https://github.com/shahidullahmc/SpaceLaunch.git
    cd SpaceLaunch
    ```
 
